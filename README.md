@@ -17,9 +17,6 @@ Una vez desplegado mediante **GitHub Pages**, las URLs públicas serán:
 - **Eliminación de Datos de Usuario:**  
   [https://jicingenieria.github.io/jicingenieria-legal/eliminar-datos.html](https://jicingenieria.github.io/jicingenieria-legal/eliminar-datos.html)
 
-> ⚠️ Las rutas pueden variar dependiendo del nombre final del repositorio.  
-> Si el repositorio se llama `jicingenieria.github.io`, las URLs quedarán en la raíz.
-
 ---
 
 ## 🧾 Contenido del repositorio
